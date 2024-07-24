@@ -24,7 +24,7 @@ Welcome to test it out. Just unzip and play! Enjoy~
 ---
 ## Download Link
 
-[Click here to download the MobiusV Demo](./MobiusV2.0.rar)
+<a href="./MobiusV2.0.rar" download>Click here to download the MobiusV Demo for Windows</a>
 
 ## Features:
 
