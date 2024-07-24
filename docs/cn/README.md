@@ -17,7 +17,7 @@
 
 <br>
 
- [**English**](../../../README.md) |**中文简体**
+ [**English**](~/README.md) |**中文简体**
 
 </div>
 
