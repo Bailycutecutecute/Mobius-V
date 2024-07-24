@@ -24,7 +24,7 @@
 ---
 ## 下载链接
 
-<a href="./MobiusV2.0.rar" download>点击这里下载 MobiusV 测试版 Demo for Windows</a>
+<a href="../../MobiusV2.0.rar" download>点击这里下载 MobiusV 测试版 Demo for Windows</a>
 
 ## 游戏特色：
 
