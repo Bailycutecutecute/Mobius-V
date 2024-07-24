@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 <h1>MobiusV</h1>
@@ -33,9 +32,3 @@ Welcome to test it out. Just unzip and play! Enjoy~
 **Visual Art**: Utilizing a unique ink painting style, the game creates a strong atmosphere of ancient Eastern culture, making it visually distinctive.
 
 **Choices and Consequences**: Every choice the player makes will impact the direction and outcome of the story, increasing the game's strategic elements and immersion.
-=======
-# Mobius-V
-MobiusV（中文：莫比乌斯·属） 个人独立游戏 测试版Demo 剧情仅更新至第一章 欢迎测试
-解压即可试玩！吧唧~
-**English** | [**中文简体**](./docs/cn/README.md)
->>>>>>> 81205cd55eda71fd885dbd9cb1f8bd276fc4f468
