@@ -15,6 +15,8 @@ Welcome to test it out. Just unzip and play! Enjoy~
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/Bailycutecutecute/Mobius-V)
 
+![My Image](./images/展示.png)
+
 <br>
 
 **English** | [**中文简体**](./docs/cn/README.md)
